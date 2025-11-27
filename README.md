@@ -3,7 +3,7 @@
 This repository contains the completed project for the Business Data Management (BDM) subject at IIT-Madras. The objective of this project was to apply data management and analysis techniques to address the challenges faced by a business owner. The focus was on enhancing service efficiency, optimizing space, and implementing structured inventory and record-keeping at JJ Beauty Salon.
 ## Project Overview
 
-The project analyzed transactional data from February 1 to March 4, 2025, digitized from the owner's manual records.
+The project analyzed transactional data, digitized from the owner's manual records.
 * **Key Problems Addressed:** Operational inefficiencies, space constraints, manual inventory tracking, and disparate paper-based record-keeping.
 * **Core Analysis:** Applied comparative analysis to segment services into high-volume/low-margin and high-value/low-frequency categories.
 
